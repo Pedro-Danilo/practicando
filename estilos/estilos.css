@@ -1,5 +1,10 @@
 body {
-    background-color: red;
-    color: white;
+   
     font-size: 5rem;
+}
+.container {
+    color: blue;
+    width: 70%;
+    border: solid;
+    border-radius: 10px;
 }
